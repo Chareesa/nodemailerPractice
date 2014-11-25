@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Pair Programming: Find a new node package
 
 Instructions:
